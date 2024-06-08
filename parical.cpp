@@ -1,8 +1,9 @@
 //frank edewardo viveros barros//
+//Leonardo Mercado
 #include <iostream>
 #include <cstring>
 #include <cstdlib> 
-// Leonardo Mercado y Steven Montaño
+
 using namespace std;
 
 struct Pasajero {
